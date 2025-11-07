@@ -26,3 +26,4 @@
     </div>
 </body>
 </html>
+<?php /**PATH /var/www/html/fm22026/resources/views/welcome.blade.php ENDPATH**/ ?>
